@@ -1,0 +1,13 @@
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

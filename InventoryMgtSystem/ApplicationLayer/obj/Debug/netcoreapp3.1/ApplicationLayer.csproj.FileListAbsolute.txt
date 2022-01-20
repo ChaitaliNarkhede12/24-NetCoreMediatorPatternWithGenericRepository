@@ -1,0 +1,15 @@
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\ApplicationLayer.deps.json
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\ApplicationLayer.dll
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\ApplicationLayer.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.AssemblyInfo.cs
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.dll
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\Models.dll
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\ApplicationLayer\obj\Debug\netcoreapp3.1\ApplicationLayer.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Jabils Screening Project\InventoryMgtSystem\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Jabils Screening Project\InventoryMgtSystem\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Jabils Screening Project\InventoryMgtSystem\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Jabils Screening Project\InventoryMgtSystem\Models\obj\Debug\netcoreapp3.1\Models.pdb
